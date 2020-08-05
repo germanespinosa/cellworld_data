@@ -1,0 +1,1 @@
+{"particles":500,"attempts": 5000,"roll_outs": 5000,"reward":{"success":100.0,"fail":0.0,"unknown":0.0,"step":0.0,"discount":0.0}}
