@@ -1,1 +1,0 @@
-{"tree_mode":"mcts", "roll_outs":1000,"reward":{"success":100,"fail":0,"unknown":0,"step":0,"discount":0}}
