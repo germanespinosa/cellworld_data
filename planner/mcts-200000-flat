@@ -1,0 +1,1 @@
+{"reward": {"fail": 0, "unknown": 0, "step": 0, "success": 100, "discount": 0}, "roll_outs": 200000, "use_pois": false, "tree_mode": "mcts"}
