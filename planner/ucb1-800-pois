@@ -1,1 +1,1 @@
-{"reward": {"fail": 0, "unknown": 0, "step": 0, "success": 100, "discount": 0}, "roll_outs": 800, "use_pois": true, "tree_mode": "ucb1"}
+{"reward": {"fail": 0, "unknown": 0, "step": 0, "success": 100, "discount": 0}, "roll_outs": 800, "use_pois": 1, "tree_mode": "ucb1"}
