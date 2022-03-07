@@ -28,8 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="added world 20_05 ... manipulated version of 10_05">
-      <change afterPath="$PROJECT_DIR$/cell_group/hexagonal.20_05.occlusions.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paths/hexagonal.20_05.astar.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,9 @@
       <workItem from="1603376879602" duration="1883000" />
       <workItem from="1603484051380" duration="719000" />
       <workItem from="1646019716785" duration="654000" />
+      <workItem from="1646414044403" duration="1000" />
+      <workItem from="1646421338307" duration="6000" />
+      <workItem from="1646421350685" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="added world 20_05 ... manipulated version of 10_05">
       <created>1646019778066</created>
