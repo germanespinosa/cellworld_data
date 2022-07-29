@@ -32,65 +32,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="added disconnected cells">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.01_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.01_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.01_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.01_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.01_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.01_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.02_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.02_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.02_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.02_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.02_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.02_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.03_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.03_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.03_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.03_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.03_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.03_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.04_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.04_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.04_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.04_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.04_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.04_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.05_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.05_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.05_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.05_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.05_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.05_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.05_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.05_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.06_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.06_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.06_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.06_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.07_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.07_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.07_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.07_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.07_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.07_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.08_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.08_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.08_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.08_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_02.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_02.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_05.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_05.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.09_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.09_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.10_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.10_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.10_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.10_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.10_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.10_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.10_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.10_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.11_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.11_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.11_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.11_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.11_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.11_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.12_05.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.12_05.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.12_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.12_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.13_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.13_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.14_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.14_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.14_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.14_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.14_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.14_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.14_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.14_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.15_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.15_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.15_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.15_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.16_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.16_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.16_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.16_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.16_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.16_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.17_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.17_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.17_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.17_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.17_08.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.17_08.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.17_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.17_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.18_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.18_06.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.18_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.18_07.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.18_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.18_09.occlusions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_group/square_small.19_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.19_09.occlusions" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +99,7 @@
       <workItem from="1654009921367" duration="38000" />
       <workItem from="1654009968596" duration="11000" />
       <workItem from="1659116922216" duration="656000" />
+      <workItem from="1659120581185" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="added world 20_05 ... manipulated version of 10_05">
       <created>1646019778066</created>
@@ -208,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659120210302</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added disconnected cells">
+      <created>1659120593730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659120593730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
