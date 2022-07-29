@@ -18,6 +18,9 @@
     </expand>
     <select />
   </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -29,6 +32,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="changed cool_down to 0.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_01.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_01.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_02.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_02.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_03.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_03.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_04.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_04.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_05.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_05.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_06.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_06.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_07.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_07.occlusions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_group/square_small.00_09.occlusions" beforeDir="false" afterPath="$PROJECT_DIR$/cell_group/square_small.00_09.occlusions" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +60,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
-    <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../habitat_controller" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Research/cellworld_data"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/planner" />
@@ -95,6 +106,7 @@
       <workItem from="1654009901369" duration="8000" />
       <workItem from="1654009921367" duration="38000" />
       <workItem from="1654009968596" duration="11000" />
+      <workItem from="1659116922216" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="added world 20_05 ... manipulated version of 10_05">
       <created>1646019778066</created>
@@ -154,7 +166,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added world 20_05 ... manipulated version of 10_05" />
