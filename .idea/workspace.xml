@@ -33,10 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="patrol 3 lppo">
-      <change afterPath="$PROJECT_DIR$/cell_group/hexagonal.neuro_patrol_3.lppo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="patrol 3 options" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +147,7 @@
       <workItem from="1699370220155" duration="1925000" />
       <workItem from="1726160319359" duration="317000" />
       <workItem from="1744655679763" duration="2253000" />
-      <workItem from="1744918800310" duration="647000" />
+      <workItem from="1744918800310" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="added world 20_05 ... manipulated version of 10_05">
       <created>1646019778066</created>
@@ -397,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744919445211</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="patrol 3 options">
+      <option name="closed" value="true" />
+      <created>1744919674540</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1744919674540</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;all robot paths have been added&quot;" />
     <MESSAGE value="changed puff dist and visual cone" />
     <MESSAGE value="changed puff dist 2.5" />
     <MESSAGE value="changed cool_down to 0.5" />
@@ -440,6 +444,7 @@
     <MESSAGE value="patrol 3 vis" />
     <MESSAGE value="patrol 3 spawn" />
     <MESSAGE value="patrol 3 lppo" />
-    <option name="LAST_COMMIT_MESSAGE" value="patrol 3 lppo" />
+    <MESSAGE value="patrol 3 options" />
+    <option name="LAST_COMMIT_MESSAGE" value="patrol 3 options" />
   </component>
 </project>
