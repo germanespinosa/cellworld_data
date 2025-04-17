@@ -33,7 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="occlusions patrol 3" />
+    <list default="true" id="ec52532a-c4b2-4a53-969a-93906eda31fd" name="Default Changelist" comment="patrol 3 spawn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,12 +53,12 @@
     &quot;assignee&quot;: &quot;germanespinosa&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/germanespinosa/cellworld_data",
-    "accountId": "f28d665f-8a39-4590-807f-c72a66342c02"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/germanespinosa/cellworld_data&quot;,
+    &quot;accountId&quot;: &quot;f28d665f-8a39-4590-807f-c72a66342c02&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -68,27 +70,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Research/cellworld_data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Research/cellworld_data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/planner" />
@@ -146,7 +148,8 @@
       <workItem from="1699290010484" duration="916000" />
       <workItem from="1699370220155" duration="1925000" />
       <workItem from="1726160319359" duration="317000" />
-      <workItem from="1744655679763" duration="971000" />
+      <workItem from="1744655679763" duration="2253000" />
+      <workItem from="1744918800310" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="added world 20_05 ... manipulated version of 10_05">
       <created>1646019778066</created>
@@ -305,7 +308,87 @@
       <option name="project" value="LOCAL" />
       <updated>1744656747040</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="robot occlusions patrol 3">
+      <option name="closed" value="true" />
+      <created>1744656904921</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744656904921</updated>
+    </task>
+    <task id="LOCAL-00023" summary="robot occlusions patrol 3">
+      <option name="closed" value="true" />
+      <created>1744656911084</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744656911084</updated>
+    </task>
+    <task id="LOCAL-00024" summary="normal and robot paths patrol 3">
+      <option name="closed" value="true" />
+      <created>1744657127740</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744657127740</updated>
+    </task>
+    <task id="LOCAL-00025" summary="vsiisblity and destinations patrol 3">
+      <option name="closed" value="true" />
+      <created>1744657241424</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744657241424</updated>
+    </task>
+    <task id="LOCAL-00026" summary="vsiisblity and destinations patrol 3">
+      <option name="closed" value="true" />
+      <created>1744657284962</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744657284962</updated>
+    </task>
+    <task id="LOCAL-00027" summary="patrol 3 occluded occlusions">
+      <option name="closed" value="true" />
+      <created>1744658097570</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1744658097570</updated>
+    </task>
+    <task id="LOCAL-00028" summary="patrol 3 occluded occlusions robot">
+      <option name="closed" value="true" />
+      <created>1744658202502</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744658202502</updated>
+    </task>
+    <task id="LOCAL-00029" summary="patrol 3 paths pred dest">
+      <option name="closed" value="true" />
+      <created>1744658484395</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1744658484395</updated>
+    </task>
+    <task id="LOCAL-00030" summary="patrol 3 vis">
+      <option name="closed" value="true" />
+      <created>1744658562580</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1744658562580</updated>
+    </task>
+    <task id="LOCAL-00031" summary="patrol 3 spawn">
+      <option name="closed" value="true" />
+      <created>1744658621692</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1744658621693</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added world 20_05 ... manipulated version of 10_05" />
     <MESSAGE value="&quot;added 10_03 and 10_02 robot paths&quot;" />
     <MESSAGE value="&quot;all robot paths have been added&quot;" />
     <MESSAGE value="changed puff dist and visual cone" />
@@ -341,6 +423,14 @@
     <MESSAGE value="visibility neuro patrol 1 and 2" />
     <MESSAGE value="spawn locations neuro patrol 1 and 2" />
     <MESSAGE value="occlusions patrol 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="occlusions patrol 3" />
+    <MESSAGE value="robot occlusions patrol 3" />
+    <MESSAGE value="normal and robot paths patrol 3" />
+    <MESSAGE value="vsiisblity and destinations patrol 3" />
+    <MESSAGE value="patrol 3 occluded occlusions" />
+    <MESSAGE value="patrol 3 occluded occlusions robot" />
+    <MESSAGE value="patrol 3 paths pred dest" />
+    <MESSAGE value="patrol 3 vis" />
+    <MESSAGE value="patrol 3 spawn" />
+    <option name="LAST_COMMIT_MESSAGE" value="patrol 3 spawn" />
   </component>
 </project>
